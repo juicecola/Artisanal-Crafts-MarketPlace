@@ -1,5 +1,5 @@
-Flask-O-shop
-Flask-O-shop is a simple e-commerce web application built using Flask, a Python web framework. This application allows users to browse and purchase various artisanal craft items.
+Artisanal-Crafts-Marketplace
+Artisanal-Crafts-Marketplace is a simple e-commerce web application built using Flask, a Python web framework. This application allows users to browse and purchase various artisanal craft items.
 
 Features
 User Registration and Login: Users can create accounts and log in to the application.
