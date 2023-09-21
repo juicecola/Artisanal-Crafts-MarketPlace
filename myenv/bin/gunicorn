@@ -1,4 +1,4 @@
-#!/home/munyi/Artisanal-Crafts-Marketplace/myenv/bin/python3
+#!/home/munyi/Artisanal-Crafts-MarketPlace/myenv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
