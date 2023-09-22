@@ -18,7 +18,7 @@ gem "jekyll-archives", "~> 2.1"
 
 group :development do
   # Serve your site locally
-  gem "jekyll-serve", "~> 0.1"
+  gem "jekyll-serve", "1.0.0.rc1"
 end
 
 group :github_pages, :jekyll_plugins do
